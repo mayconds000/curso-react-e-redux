@@ -1,8 +1,8 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import ClassComponent from './classComponent'
+import SilvaFamily from './silvaFamily'
 
 ReactDOM.render(
-  <ClassComponent value="Hi i am the classComponent" />
+  <SilvaFamily />
   , document.getElementById('app'))
 
